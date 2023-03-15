@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataBetweenActivities</string>
+    <string name="name">Name</string>
+    <string name="country">Country</string>
+    <string name="age">Age</string>
+    <string name="apply">Apply</string>
+    <string name="second_activity">Second Activity</string>
+</resources>
