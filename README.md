@@ -1,2 +1,2 @@
 # DataBetweenActivities
-Project made to train data transfer between activities using Kotlin and Android Studio
+Projeto feito para treinar transferência de dados entre atividades usando Kotlin e Android Studio
